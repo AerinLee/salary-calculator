@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/salary-calculator/static/css/main.a2ef3db4.css",
+    "main.js": "/salary-calculator/static/js/main.e4e3187b.js",
+    "static/js/787.7aa7fac8.chunk.js": "/salary-calculator/static/js/787.7aa7fac8.chunk.js",
+    "index.html": "/salary-calculator/index.html",
+    "main.a2ef3db4.css.map": "/salary-calculator/static/css/main.a2ef3db4.css.map",
+    "main.e4e3187b.js.map": "/salary-calculator/static/js/main.e4e3187b.js.map",
+    "787.7aa7fac8.chunk.js.map": "/salary-calculator/static/js/787.7aa7fac8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2ef3db4.css",
+    "static/js/main.e4e3187b.js"
+  ]
+}
