@@ -1,0 +1,30 @@
+.row {
+  align-items: center;
+  justify-content: center;
+}
+
+.table {
+  width: 720px;
+  margin-top: 4rem;
+}
+
+.inputBox {
+  font-family: inherit;
+  margin: 0 8px;
+  text-align: right;
+}
+
+.datePicker {
+  text-align: center;
+  font-family: inherit;
+  margin: 0 8px;
+  width: auto !important;
+}
+
+.infoText {
+    margin: 16px 0;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    color: rgb(81, 81, 81);
+}

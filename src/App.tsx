@@ -1,26 +1,19 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import InputSalaryPage from "./pages/InputSalaryPage";
+import CalculateOutlinedIcon from "@mui/icons-material/CalculateOutlined";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="title">
+        <CalculateOutlinedIcon fontSize="large" />
+        <h1>연봉 상승률 계산기</h1>
+      </div>
+      <div className="App-content">
+        <InputSalaryPage />
+      </div>
     </div>
   );
-}
+};
 
 export default App;
