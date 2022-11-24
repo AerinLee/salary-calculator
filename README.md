@@ -9,3 +9,5 @@
 
 * 로컬 스토리지에 정보가 저장됩니다.
 * RESET 버튼을 누르면 모든 정보가 사라집니다.
+
+https://aerinlee.github.io/salary-calculator/
